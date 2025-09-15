@@ -21,3 +21,5 @@ Crear un sistema donde puedas enviar comandos desde Telegram y que Arduino los e
 ---
 
 ## 📂 Estructura del proyecto
+
+https://youtu.be/cfcoIA6875A
